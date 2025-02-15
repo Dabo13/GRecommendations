@@ -1,0 +1,26 @@
+[
+  {
+    "ticker": "AAPL",
+    "discountToGraham": 0.25,
+    "checks": {
+      "Net Current Asset Value Check": true,
+      "Debt Check": false
+    }
+  },
+  {
+    "ticker": "MSFT",
+    "discountToGraham": null,
+    "checks": {
+        "Net Current Asset Value Check": false,
+        "Debt Check": true
+    }
+  },
+  {
+    "ticker": "GOOG",
+    "discountToGraham": 0.10,
+    "checks": {
+        "Net Current Asset Value Check": true,
+        "Debt Check": true
+    }
+  }
+]
