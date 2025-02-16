@@ -1,5 +1,4 @@
-[
-  {
+{
     "ticker": "AAPL",
     "discountToGraham": 0.25,
     "checks": {
@@ -23,4 +22,3 @@
         "Debt Check": true
     }
   }
-]
