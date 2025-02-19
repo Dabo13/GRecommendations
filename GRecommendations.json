@@ -7,6 +7,14 @@
       "Debt Check": false
     }
   },
+    {
+  "ticker": "BUR",
+  "discountToGraham": 0.375,
+  "checks": {
+    "Net Current Asset Value Check": false,
+    "Debt Check": false
+  }
+},
   {
     "ticker": "MSFT",
     "discountToGraham": null,
